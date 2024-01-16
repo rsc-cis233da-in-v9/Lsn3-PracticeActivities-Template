@@ -1,0 +1,25 @@
+
+/*
+  Student Name: 
+  Course Section:
+  Instructor's Name:
+*/
+/* add color scheme info here */
+
+/* Resets sizing method and removes browser defaults for all elements */
+*, *::after, *::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* default styles */
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header {
+  min-height: 6em;
+  text-align: center;
+}
+header h1 {
+  margin-top: .5em;
+}
